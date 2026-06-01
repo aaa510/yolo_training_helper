@@ -1,0 +1,8 @@
+names:
+  0: corn
+path: ''
+test: ''
+train: C:/Users/13272/Desktop/train-yolov5\images\train
+val: C:/Users/13272/Desktop/train-yolov5\images\val
+
+

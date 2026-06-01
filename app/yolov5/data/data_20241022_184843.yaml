@@ -1,0 +1,6 @@
+names:
+  0: yumi
+path: ''
+test: ''
+train: C:/Users/13272/Desktop/yolov5-7.0/datasets/TrainTest\images\train
+val: C:/Users/13272/Desktop/yolov5-7.0/datasets/TrainTest\images\val

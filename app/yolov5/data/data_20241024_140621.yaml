@@ -1,0 +1,5 @@
+names: {}
+path: ''
+test: ''
+train: C:/Users/13272/Desktop/yolov5-7.0/datasets/dataset\images\train
+val: C:/Users/13272/Desktop/yolov5-7.0/datasets/dataset\images\val
